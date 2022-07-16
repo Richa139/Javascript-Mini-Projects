@@ -1,0 +1,42 @@
+#mycanvas{
+    width:800px;
+    height: 600px;
+    margin: auto;
+    display: block;
+    top: 0;
+    left: 0;
+    bottom:0;
+    right: 0;
+    position: absolute;
+    border: 5px solid orange;
+    background-color: rgb(19, 103, 103);
+    }
+    .head{
+        text-align: center;
+        background-color: #7fffd4;
+        padding: 20px;
+        color: blueviolet;
+        font-size: 50px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+        background-color: azure;
+    }
+    footer{
+        color: rgb(255, 55, 0);
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: absolute;
+        padding: auto;
+        display: block;
+        font-size: 30px;
+        text-align: center;
+        background-color: 7fffd4;
+        padding: 20px;
+        color: blueviolet;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
