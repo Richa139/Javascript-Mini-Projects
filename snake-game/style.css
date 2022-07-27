@@ -13,10 +13,10 @@
     }
     .head{
         text-align: center;
-        background-color: #7fffd4;
-        padding: 20px;
+/*         background-color: #7fffd4; */
+        padding: 10px;
         color: blueviolet;
-        font-size: 50px;
+        font-size: 30px;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     body{
