@@ -1,0 +1,273 @@
+.main{
+    top:0;
+    margin:0;
+    left: 0;
+    position: relative;
+}
+
+.start{
+    background-color: purple;
+    color: white;
+    display: inline-block;
+    padding: .75% 3%;
+    border-radius: 20px;
+    position: absolute;
+    left: 45%;
+    top: 30px;
+    
+}
+.end{
+    background-color: purple;
+    color: white;
+    display: inline-block;
+    padding: .75% 3%;
+    border-radius: 20px;
+    position: absolute;
+    left: 45%;
+    top: 620px;
+    
+}
+
+.vl {
+    border-left: 4px solid green;
+    height: 40px;
+    position: absolute;
+    display: inline-block;
+  }
+
+.first{
+    left: 49%;
+    top: 66px;
+}
+
+.second{
+    left: 49%;
+    top: 146px;
+}
+.third{
+    left: 49%;
+    top: 232px;
+}
+.forth{
+    left: 34.2%;
+    top: 335px;
+    height: 60px;
+}
+.fifth{
+    left: 63.5%;
+    top: 335px;
+    height: 60px;
+}
+.sixth{
+    left: 49%;
+    top:453px;
+    height: 50px;
+}
+.seventh{
+    left: 20%;
+    top:453px;
+    height: 50px;
+}
+.eigth{
+    left: 78%;
+    top:453px;
+    height: 50px;
+}
+  .arrow {
+    width: 0; 
+    height: 0; 
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid green;
+    position: absolute;
+    top: 100px;
+    left: 48.33% ;
+  }
+  .one{
+    top: 100px;
+    left: 48.33% ;
+
+
+  }
+  .sec{
+    top: 186px;
+    left: 48.33%;
+  }
+  .thrice{
+    top: 270px;
+    left: 48.33%;
+  }
+  .four{
+    top: 390px;
+    left: 33.6%;
+  }
+  .five{
+    top: 390px;
+    left: 62.8%;
+  }
+  .six{
+    top: 500px;
+    left: 19.4%;
+  }
+  .seven{
+    top: 500px;
+    left: 48.3%;
+  }
+  .eght{
+    top: 500px;
+    left: 77.4%;
+  }
+  .nne{
+    top: 610px;
+    left: 48.3%;
+  }
+  .nine{
+    top: 545px;
+    left: 20%;
+  }
+  .ten{
+    top: 545px;
+    left: 78%;
+  }
+  .eleven{
+    top: 545px;
+    left: 49%;
+    height: 70px;
+  }
+  .variable-declare{
+    background-color: purple;
+    color: white;
+    display: inline-block;
+    padding: .75% 2%;
+    top: 110px;
+    position: absolute;
+    left: 40.5%; 
+  }
+  .read-variable{
+    background-color: purple;
+    color: white;
+    display: inline-block;
+    padding: .75% 5%;
+    top: 196px;
+    position: absolute;
+    left: 40.5%;
+  }
+  .diamond{
+    /* margin:50px; */
+    
+    width:80px;
+    height:80px;
+    background:purple;
+    transform:rotate(45deg);
+    -ms-transform:rotate(45deg);
+    -webkit-transform:rotate(45deg);
+    position:relative;
+  }
+.A{
+    top:295px;
+    left: 45.8%;
+    
+}
+.B{
+    top: 335px;
+    left:31%;
+}
+.C{
+    top: 255px;
+    left: 60.4%;
+}
+  .diamond-inner{
+    color:#fff;
+    font-weight:bold;
+    /* font-size:1.2em; */
+    line-height:1.4em;
+    text-align:center;
+    transform:rotate(-45deg);
+    -ms-transform:rotate(-45deg);
+    -webkit-transform:rotate(-45deg);
+    position:absolute;
+      }
+  .a{
+    top:25px;
+    left:18px;
+
+
+  }
+.b{
+    top: 25px;
+    left: 18px;
+}
+  
+  .hl {
+      border-bottom: 4px solid green;
+      position: absolute;
+      display: inline-block;
+        text-align: center;
+      
+    }
+
+    .h-1{
+        width: 125px;
+        top: 315px;
+        left: 34.2%;
+    }
+    .h-2{
+        width: 125px;
+        top: 315px;
+        left: 53.5%;
+    }
+    .h-3{
+        width: 120px;
+        top: 435px;
+        left: 20%;
+    }
+    .h-4{
+        width: 125px;
+        top: 435px;
+        left: 38.7%;
+    }
+    .h-5{
+        width: 125px;
+        top: 435px;
+        left: 49%;
+    }
+    .h-6{
+        width: 125px;
+        top: 435px;
+        left: 68%;
+    }
+    .h-7{
+        width: 700px;
+        top: 585px;
+        left: 20%;
+    }
+
+    .print-b{
+        background-color: purple;
+        color: white;
+        display: inline-block;
+        padding: .75% 1%;
+        top: 510px;
+        position: absolute;
+        left: 17.5%;
+    }
+    .print-c{
+        background-color: purple;
+        color: white;
+        display: inline-block;
+        padding: .75% 1%;
+        top: 510px;
+        position: absolute;
+        left: 46.5%;
+    }
+
+    .print-a{
+        background-color: purple;
+        color: white;
+        display: inline-block;
+        padding: .75% 1%;
+        top: 510px;
+        position: absolute;
+        left: 75.5%;
+    }
+    
