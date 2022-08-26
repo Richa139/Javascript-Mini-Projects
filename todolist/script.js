@@ -14,7 +14,7 @@ document.querySelector('#push').onclick = function(){
                     <i class="far fa-trash-alt"></i>
                 </button>
                 </div>
-                document.querySelector('#newtask input').value.length == 0;
+                document.querySelector('#newtask input').value.length == "";
         `;
 
         var current_tasks = document.querySelectorAll(".delete");
